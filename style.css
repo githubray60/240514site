@@ -60,7 +60,7 @@ img {
 ol li {
     list-style-position: inside;
     border-bottom: 1px dotted;
-    padding-bottom: 6px 0;
+    padding: 6px 0;
 }
 .menu {
     text-align: center;
@@ -74,7 +74,7 @@ ol li {
     text-decoration: none;
 }
 .adress {
+    display: flex;
     font-size: 0.75rem;
     text-align: center;
-    padding: 20px;
 }
